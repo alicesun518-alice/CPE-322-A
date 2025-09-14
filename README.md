@@ -14,7 +14,7 @@
 
 ---
 
-[title](https://www.markdownguide.org/cheat-sheet/) helped me get started. 
-![GitHub Cute Cat!]([image](https://static.vecteezy.com/system/resources/previews/025/270/403/original/github-logo-icon-free-vector.jpg)
+[Markdown](https://www.markdownguide.org/cheat-sheet/) helped me get started. 
+![GitHub Cute Cat!](https://static.vecteezy.com/system/resources/previews/025/270/403/original/github-logo-icon-free-vector.jpg)
 
 //heading, bold, italic, block quote, ordered list, unordered list, code, horizontal rule, link, image
