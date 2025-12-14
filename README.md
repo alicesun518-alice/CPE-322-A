@@ -1,6 +1,6 @@
-# **CPE 322A Classwork**
-## Assignment 1
-### GitHub Basics
+# **CPE 322A Lab Submissions**
+## Weekly Lab Exercises
+### This assignment is regarding Github Basics:
 
 1. **Bold texts** are represented using "**" before and after the text.
 2. Headings are represented by "#'s".
